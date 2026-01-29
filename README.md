@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working on Java<br>📚 I'm currently learning OOPs<br>🎯 Ask me about Web Development<br>🎲 How to reach me: gr762255@gmail.com</p>
+<p align="left">✨ I'm currently working on Java<br>📚 I'm currently learning <strong>OOPs</strong>strong> <br>🎯 Ask me about Web Development<br>🎲 How to reach me: gr762255@gmail.com</p>
 
 ###
 
