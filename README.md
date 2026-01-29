@@ -40,17 +40,21 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/%20contactgauravk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img height="200" src="https://giffiles.alphacoders.com/223/223004.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/223/223004.gif"  />
+  <a href="https://www.linkedin.com/in/%20contactgauravk" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/igaurav.c/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
